@@ -8,6 +8,6 @@ TIPE de ESSAMOUD Marouane et DUTHE Ryan
 Ajout du premier programme de Secret Santa : Version naïve n'utilisant pas de procédés cryptographiques
 
 ### 18/10/2024  
-Ajout du PDF récapitulatif d'ElGamal
+Ajout du PDF récapitulatif d'ElGamal  
 Commencement des recherches sur "les secrets partagés" et les "trusties"  
 Objectif des vacances d'Octobre : résumé ces deux aspects et avec une première version d'un Secret Santa avec un serveur qui renvoit des données chiffrées
