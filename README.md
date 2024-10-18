@@ -9,5 +9,5 @@ Ajout du premier programme de Secret Santa : Version naïve n'utilisant pas de p
 
 ### 18/10/2024  
 Ajout du PDF récapitulatif d'ElGamal
-Commencement des recherches sur "les secrets partagés" et les "trusties" 
+Commencement des recherches sur "les secrets partagés" et les "trusties"  
 Objectif des vacances d'Octobre : résumé ces deux aspects et avec une première version d'un Secret Santa avec un serveur qui renvoit des données chiffrées
