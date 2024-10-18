@@ -7,7 +7,7 @@ Avoir un programme fonctionnel qui renvoit les couples d'un Secret Santa de mani
 
 ## Objectif Ponctuel
 
-**Objectif des vacances d'Octobre** : résumé les notions de trusties et de secret partagé, programmer une première version de nos premiers protocoles 
+**Objectif des vacances d'Octobre** : résumer les notions de trusties et de secret partagé, programmer une première version de nos premiers protocoles 
 
 ## Journal De Bord
 
@@ -16,6 +16,6 @@ Ajout du premier programme de Secret Santa : Version naïve n'utilisant pas de p
 
 ### 18/10/2024  
 Ajout du PDF récapitulatif d'ElGamal  
-Commencement des recherches sur "les secrets partagés" et les "trusties" (i.e tiers de confiance)   
+Commencement des recherches sur "les secrets partagés" et les "trustees" (i.e tiers de confiance)   
 Ajout d'un PDF contenant 2 premiers protocoles : Le système connait les couples mais renvoie une version chiffré à l'aide d'ElGamal  
 
