@@ -7,7 +7,7 @@ Avoir un programme fonctionnel qui renvoit les couples d'un Secret Santa de mani
 
 ## Objectif Ponctuel
 
-**Objectif des vacances d'Octobre** : résumé ces deux aspects et avec une première version d'un Secret Santa avec un serveur qui renvoit des données chiffrées  
+**Objectif des vacances d'Octobre** : résumé les notions de trusties et de secret partagé, programmer une première version de nos premiers protocoles 
 
 ## Journal De Bord
 
