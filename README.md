@@ -9,6 +9,8 @@ Avoir un programme fonctionnel qui renvoit les couples d'un Secret Santa de mani
 
 **Objectif des vacances d'Octobre** : résumé ces deux aspects et avec une première version d'un Secret Santa avec un serveur qui renvoit des données chiffrées  
 
+## Journal De Bord
+
 ### 15/10/2024
 Ajout du premier programme de Secret Santa : Version naïve n'utilisant pas de procédés cryptographiques
 
