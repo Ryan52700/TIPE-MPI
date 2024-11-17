@@ -113,8 +113,8 @@ let secretsanta_chiffre_un (participants: string array) cles = (* Même fonction
   done;
   
   
-  (result, nom_nombre, nombre_nom, publique);; (* Result de la forme (participants, (u,v) ), accosiations est un Hashtbl avec comme clés les noms des participants
-                                        et publique est un Hashtbl avec comme clé les noms des participants*)
+  (result, nom_nombre, nombre_nom, publique);; (* Result de la forme (participants, (u,v) ), nom_nombre est un Hashtbl avec comme clés les noms des participants, nombre_nom c'est l'inverse,
+                                        et publique est un Hashtbl avec comme clé les noms des participants et les valeurs sont les clés publique qui leur sont associées*)
   
 let participants = [| "Alice"; "Bob"; "Charlie"; "David" ; "Ryan"; "Valentin"; "Yani"; "Clément"; "Gabriel"; "Marouane"; "Le Patron";
                       "La Patronne" ; " Test" |];; 
