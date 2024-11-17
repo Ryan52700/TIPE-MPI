@@ -19,3 +19,5 @@ Ajout du PDF récapitulatif d'ElGamal
 Commencement des recherches sur "les secrets partagés" et les "trustees" (i.e tiers de confiance)   
 Ajout d'un PDF contenant 2 premiers protocoles : Le système connait les couples mais renvoie une version chiffré à l'aide d'ElGamal  
 
+### 17/11/2024
+Ajout du programme du protocole 1
